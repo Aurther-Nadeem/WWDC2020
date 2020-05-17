@@ -6,10 +6,10 @@ WWDC 2020 Swift Coding Challenge Submission by Aurther Nadeem
 Welcome to my WWDC20 Swift Coding Challenge Project. This is a playground book which shows the user multiple landmarks from different countries.
 
 The Landmarks are:
-Burj Khalifa
-Big Ben
-Eiffel Tower
-Moai Statues
+Burj Khalifa,
+Big Ben,
+Eiffel Tower,
+Moai Statues and
 St. Basil's Cathedral
 
 # Getting Started
